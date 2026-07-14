@@ -18,15 +18,17 @@ professional-assets/
 
 ## Contents
 
-### 📄 Resume
+## 📄 Resume
 
-Latest Software Engineering Resume
+- [Latest Software Engineering Resume](resume/Veeresh_Resume.pdf)
 
-### 🏆 Certificates
+## 🏆 Certificates
 
-- Intelligent Robotics & AI Integration Internship
-- iSpark Learning Solutions Pvt. Ltd.
-- February 2026 – May 2026
+- [Intelligent Robotics & AI Integration Internship](certificates/iSpark-Intelligent-Robotics-AI-Internship-Certificate.pdf)
+
+Issued by iSpark Learning Solutions Pvt. Ltd.
+
+Duration: February 2026 – May 2026
 
 ## Profiles
 
